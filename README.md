@@ -1,25 +1,25 @@
 ![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/18716_Blog_Post_Animation_RT_01.gif)
 <h1 align="center">Hi 👋, I'm Eisa Mehmood</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3 align="center">A passionate Full Stack Android Developer(JAVA) from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Android Developer(JAVA) from Pakistan.</h3>
 
 
 # 💫 About Me:
-- ☕I am Full Stack Android Developer(JAVA)& UI/UX Designer.<br>
+- ☕I am Full Stack Android Developer(JAVA)& UI/UX Designer.
 
-- 😎I am Currently a student of Software Engineering.<br>
+- 😎I am Currently a student of Software Engineering.
 
-- 😉I have some Experience of making Android Apps and Good UI designs.<br>
+- 😉I have some Experience of making Android Apps and Good UI designs.
 
-- 🔭 I’m currently working on **up my skills**
+- 🔭 I’m currently working to up my skills.
 
-- 🌱 I’m currently learning **Android Development with Kotlin**
+- 🌱 I’m currently learning Android Development with Kotlin.
 
-- 👯 I’m looking to collaborate with **you if you need any help of me**
+- 👯 I’m looking to collaborate with you if you need any help of me.
 
-- 🤝 I’m looking for help with **your help to give me great advices**
+- 🤝 I’m looking for help with your help to give me great advices.
 
-- 💬 Ask me about **Java , C++ , XML and Android Developement**
+- 💬 Ask me about **Java , C++ , XML and Android Developement.
 
 - 📫 How to reach me **itseisamehmood@gmail.com**
 
@@ -37,7 +37,7 @@
 <p align="left">
 <a href="https://twitter.com/eisa_mahmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eisa_mahmood" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eisa-mehmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eisa-mehmood" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/profile.php?id=100085051920902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100085051920902" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100085051920902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100085051920902" height="30" width="40" /></a>
 <a href="https://instagram.com/eisa__mehmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eisa__mehmood" height="30" width="40" /></a>
 </p>
 
