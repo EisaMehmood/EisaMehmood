@@ -1,10 +1,11 @@
 ![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/18716_Blog_Post_Animation_RT_01.gif)
 <h1 align="center">Hi 👋, I'm Eisa Mehmood</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="center">A passionate Full Stack Android Developer(JAVA) from Pakistan.</h3>
 
 
+
 # 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - ☕I am Full Stack Android Developer(JAVA)& UI/UX Designer.
 
 - 😎I am Currently a student of Software Engineering.
