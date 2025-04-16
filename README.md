@@ -1,95 +1,181 @@
-![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/android_12_developer_preview.gif)
-<h1 align="center">Hi 👋, I'm Eisa Mehmood</h1>
-<h3 align="center">A passionate Full Stack Android Developer(JAVA) from Pakistan.</h3>
+![MasterHead](https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif)
+<h1 align="center">Hi there 👋, I'm <span style="color:#5BCDEC;">Eisa Mehmood</span></h1>
+<h1 align="center">💻 Javascript Developer</h1>
 
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-# 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://www.iventra.com/assets/images/bg/back-end-developer.gif">
-
-- ☕I am Full Stack Android Developer(JAVA)& UI/UX Designer.
-
-- 😎I am Currently a student of Software Engineering.
-
-- 😉I have some Experience of making Android Apps and Good UI designs.
-
-- 🔭 I’m currently working to up my skills.
-
-- 🌱 I’m currently learning Android Development with Kotlin.
-
-- 👯 I’m looking to collaborate with you if you need any help of me.
-
-- 🤝 I’m looking for help with your help to give me great advices.
-
-- 💬 Ask me about Java , C++ , XML and Android Developement.
-
-- 📫 How to reach me **itseisamehmood@gmail.com**
-
-- 🥰Happy to Hear you! Lets Connect.
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eisamehmood&label=Profile%20views&color=0e75b6&style=flat" alt="eisamehmood" /> </p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=eisamehmood&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-<p align="left"> <a href="https://twitter.com/eisa_mahmood" target="blank"><img src="https://img.shields.io/twitter/follow/eisa_mahmood?logo=twitter&style=for-the-badge" alt="eisa_mahmood" /></a> </p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/eisa_mahmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eisa_mahmood" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eisa-mehmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eisa-mehmood" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100085051920902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100085051920902" height="30" width="40" /></a>
-<a href="https://instagram.com/eisa__mehmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eisa__mehmood" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5BCDEC&center=true&vCenter=true&width=800&lines=👨‍💻+Turning+Coffee+into+Code+since+2022...;🎓+Final+Year+Software+Engineering+Student;📱+Software+Developer+%26+UI%2FUX+Designer;🛠️+30%2B+Web+Projects+%7C+2+Android+Apps+Live;🌐+Certified+in+Web+Dev%2C+C%2B%2B%2C+CCNA+%26+More;🚀+Working+on+Node.js%2C+MongoDB%2C+Socket.io;🖥️+10%2B+WordPress+Projects" alt="Typing SVG" />
 </p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-### Github Statistics
-
-<table>
-  <tr>
-    <td>
-       <a href="https://github.com/Adeleye080"><img alt="Github Statistics" src="https://github-readme-stats.vercel.app/api?username=eisamehmood&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>
-    <td>
-       <a href="http://www.github.com/Adeleye080"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eisamehmood&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/eisamehmood"><img alt="Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eisamehmood&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-    </td>
-  </tr>
-</table>
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-# 📊 GitHub Merits:
-<p>
-  <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eisamehmood&count_private=true&include_all_commits=true&theme=react" />
+
+---
+
+<img align="right" alt="Coding GIF" width="380" src="https://www.iventra.com/assets/images/bg/back-end-developer.gif" />
+
+## 💫 About Me
+
+✨ I'm a **tech enthusiast** and a **problem solver** who loves transforming ideas into real-world mobile and web applications. Here's a snapshot of my journey:
+### 💼 Job Experience
+- 🖥️ **2 Years** – WordPress Development
+- 👨‍🏫 **2 Years** – Computer Science Teacher
+### 🎓 Education
+- 🎓 **Final Year Student** – Bachelors in **Software Engineering**
+
+### 👨‍💻 Technical Skillset
+- 💼 **Software Developer & Programmer** – Specialized in **Javascript** 
+- 🎨 **UI/UX Designer** – Passionate about clean and functional design
+
+### 🧾 Certifications
+- 🥇 HTML & CSS – *Priple*
+- 🥈 JavaScript – *Udemy*
+- 🧠 C++ – *Cisco*
+- 🌐 CCNA – *Cisco*
+- 🤖 Android (Java) – *NAVTTC* & *PNY Trainings*
+
+### 📱 Project Portfolio
+- ✅ **2 Android Applications** built in Java
+- ✅ **30+ Web Projects** using HTML, CSS & JavaScript
+- 🔧 Currently building full-stack apps with:
+  - ⚙️ **Node.js**
+  - 🚀 **Express.js**
+  - 🧩 **MongoDB**
+  - 🌐 **Socket.io**
+  - 🔐 **JWT (Authentication)**
+
+### 🌟 What I’m Up For
+- 🤝 Open to **collaborations** and creative coding partnerships
+- 💬 Happy to chat about:
+  - `Software Development`
+  - `Javacript`, `C++`, `XML`
+  - `UI/UX Principles` ,  `HTML & CSS`, `AI`
+- 📫 Reach out: **itseisamehmood@gmail.com**
+
+> ✨ *Let’s craft the next big thing together – beautifully coded and creatively designed!*  
+> 👇 *Scroll down to see my GitHub stats and connect on socials!*
+
+---
+
+
+<div align="center">
+  <!-- Profile Views -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=eisamehmood&label=Profile%20views&color=0e75b6&style=flat" alt="eisamehmood" />
+  </p>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width: 80%; margin-top: 30px;"/>
+
+  <!-- GitHub Trophies -->
+  <h3 style="font-size: 28px; font-weight: bold; color: #5BCDEC; margin-top: 30px;">🏆 GitHub Trophies</h3>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=eisamehmood&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" style="border-radius: 10px; margin-top: 20px;"/>
+  </p>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width: 80%; margin-top: 30px;"/>
+
+  <!-- Connect with me -->
+  <h3 style="font-size: 28px; font-weight: bold; color: #5BCDEC; margin-top: 30px;">📱 Connect with me:</h3>
+  <p>
+    <a href="https://twitter.com/eisa_mahmood" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eisa_mahmood" height="40" width="45" style="margin: 10px; border-radius: 10px;"/>
+    </a>
+    <a href="https://linkedin.com/in/eisa-mehmood" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eisa-mehmood" height="40" width="45" style="margin: 10px; border-radius: 10px;"/>
+    </a>
+    <a href="https://fb.com/profile.php?id=100085051920902" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100085051920902" height="40" width="45" style="margin: 10px; border-radius: 10px;"/>
+    </a>
+    <a href="https://instagram.com/eisa__mehmood" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eisa__mehmood" height="40" width="45" style="margin: 10px; border-radius: 10px;"/>
+    </a>
+  </p>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="margin-top: 30px; width: 90%;"/>
+</div>
+
+<h3 align="center" style="font-size: 24px; font-weight: bold; color: #5BCDEC;">Languages and Tools:</h3>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/>
+  </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+  </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+  </a> 
 </p>
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Eisa_Mahmood)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="margin-top: 30px; width: 90%;"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<div align="center">
+  <h3 style="font-size: 28px; font-weight: bold; color: #5BCDEC;">📊 GitHub Statistics</h3>
+
+  <table style="margin: 20px auto; display: flex; justify-content: center; gap: 30px;">
+    <tr>
+      <td>
+        <a href="https://github.com/eisamehmood">
+          <img alt="Github Statistics" src="https://github-readme-stats.vercel.app/api?username=eisamehmood&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" style="border-radius: 10px;"/>
+        </a>
+      </td>
+      <td>
+        <a href="http://www.github.com/eisamehmood">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=eisamehmood&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="border-radius: 10px;"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/eisamehmood">
+          <img alt="Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eisamehmood&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a" style="border-radius: 10px;"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="margin-top: 30px; width: 90%;"/>
+
+  <h3 style="font-size: 24px; font-weight: bold; color: #5BCDEC;">📈 GitHub Merits</h3>
+  <p>
+    <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eisamehmood&count_private=true&include_all_commits=true&theme=react" style="border-radius: 10px;"/>
+  </p>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="margin-top: 30px; width: 90%;"/>
+
+  <h3 style="font-size: 24px; font-weight: bold; color: #5BCDEC;">✍️ Random Dev Quote</h3>
+  <a href="https://quotes-github-readme.vercel.app" target="_blank">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" style="border-radius: 10px; margin-top: 20px;" />
+
+
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="margin-top: 30px; width: 90%;"/>
+
+  </a>
+</div>
 
 
