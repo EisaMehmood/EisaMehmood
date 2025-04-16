@@ -171,11 +171,9 @@
   <h3 style="font-size: 24px; font-weight: bold; color: #5BCDEC;">✍️ Random Dev Quote</h3>
   <a href="https://quotes-github-readme.vercel.app" target="_blank">
     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" style="border-radius: 10px; margin-top: 20px;" />
-
-
-      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="margin-top: 30px; width: 90%;"/>
-
   </a>
+        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="margin-top: 30px; width: 90%;"/>
+
 </div>
 
 
